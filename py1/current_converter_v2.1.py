@@ -12,30 +12,15 @@ usd_vs_rmb = 6.77
 currency_str_value = input('Please enter the amount of currency with unit：')
 #get the unit
 unit = currency_str_value[-3:]
+currency_value = eval(currency_str_value[:-3])
 
 if unit == 'CNY':
-    #input the CNY
-    rmb_str_value = currency_str_value[:-3]
-    rmb_value = eval(rmb_str_value)
     # Calculate the value
-    usd_value = rmb_value / usd_vs_rmb
+    usd_value = currency_value / usd_vs_rmb
     # Output the result
     print('The amount of USD (USD) is：', usd_value)
 elif unit == "USD":
-    usd_str_value = currency_str_value[:-3]
-    usd_value = eval(usd_str_value)
-    rmb_value = usd_value*usd_value
+    rmb_value = currency_value*usd_vs_rmb
     print('The amount of RMB (RMB) is：', rmb_value)
 else:
     print("please input a right RMB or USD currency!")
-
-
-
-
-# #String to number
-# rmb_value = eval(rmb_str_value)
-# #Calculate the value
-# usd_value = rmb_value/usd_vs_rmb
-# #Output the result
-# print('The amount of USD (USD) is：', usd_value)
-
