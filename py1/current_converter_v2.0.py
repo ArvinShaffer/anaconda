@@ -3,7 +3,7 @@
     Function:Exchange rate
     Version:1.0
     Date:02/01/2018
-    New Function:According to the input to determine whether the RMB or the dollar, the corresponding conversion calculation
+    2.0 New Function:According to the input to determine whether the RMB or the dollar, the corresponding conversion calculation
 """
 
 #exchange rate
