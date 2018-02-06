@@ -9,15 +9,15 @@
     5.0 New Function:(1)Make the program structured.(2)Simple function definition lambda
 """
 
-def convert_currency(im, er):
-    """
-    Exchange rate
-    :param im:the amount of money
-    :param er: exchange rate
-    :return:
-    """
-    out = im*er
-    return out
+# def convert_currency(im, er):
+#     """
+#     Exchange rate
+#     :param im:the amount of money
+#     :param er: exchange rate
+#     :return:
+#     """
+#     out = im*er
+#     return out
 
 def main():
     """
@@ -41,8 +41,17 @@ def main():
 
     if exchange_rate != -1:
         in_money = eval(currency_str_value[:-3])
-        #call function convert_currency()
-        out_money = convert_currency(in_money, exchange_rate)
+        #use lambda to define function
+        #<function name> = lambda <parameter list>:<expression>
+        convert_currency2 = lambda x:x*exchange_rate
+
+
+        # #call function convert_currency()
+        # out_money = convert_currency(in_money, exchange_rate)
+
+        #use lambda function
+        out_money = convert_currency2(in_money)
+
         print('Converted amount:', out_money)
     else:
         print('This currency is not supported!')
