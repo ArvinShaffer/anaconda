@@ -1,7 +1,7 @@
 """
     Author:Arvin Shaffer
     Function:BMR Calculator
-    Version:1.0
+    Version:2.0
     Date:02/16/2018
     2.0 New Function:Calculated based on user input,The program is running continuously
 """
