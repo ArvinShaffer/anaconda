@@ -1,9 +1,9 @@
 """
     Author:Arvin Shaffer
     Function:52 Weeks Money Challenge
-    Version:2.0
-    Date:02/20/2018
-    2.0 New Function:Record the number of weekly deposits
+    Version:3.0
+    Date:02/21/2018
+    3.0 New Function:use for to record the number of weekly deposits
 """
 import math
 
@@ -16,12 +16,11 @@ def main():
 
     money_list = []
 
-    while i <= total_week:
+    for i in range(total_week):
         money_list.append(money_per_week)
         saving = math.fsum(money_list)
-        print('The first {} weeks deposited {} yuan, the cumulative account {} yuan'.format(i, money_per_week, saving))
+        print('The first {} weeks deposited {} yuan, the cumulative account {} yuan'.format(i + 1, money_per_week, saving))
         money_per_week += increase_money
-        i += 1
 
 if __name__ == '__main__':
     main()
