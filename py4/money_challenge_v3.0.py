@@ -9,7 +9,6 @@ import math
 
 def main():
     money_per_week = 10
-    i = 1
     increase_money = 10
     total_week = 52
     saving = 0
