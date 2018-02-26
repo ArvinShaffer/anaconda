@@ -1,9 +1,8 @@
 """
     Author:Arvin Shaffer
-    Function:Which day ?
+    Function:Which day? Enter a certain date of a year to determine the day is the first few days of the year
     Version:1.0
     Date:02/26/2018
-    Function:Enter a certain date of a year to determine the day is the first few days of the year
 """
 from datetime import datetime
 
