@@ -10,7 +10,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="lect08_v5.0.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lect08_v5.0.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="149">
+              <caret line="32" column="24" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+              <folding>
+                <element signature="e#435#448#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -29,10 +42,11 @@
         <option value="$PROJECT_DIR$/lect08_v3.1.py" />
         <option value="$PROJECT_DIR$/lect08_v3.0.py" />
         <option value="$PROJECT_DIR$/lect08_v4.0.py" />
+        <option value="$PROJECT_DIR$/lect08_v5.0.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-18" />
     <option name="y" value="36" />
     <option name="width" value="1346" />
@@ -65,6 +79,11 @@
               <item name="py7" type="b2602c69:ProjectViewProjectNode" />
               <item name="py7" type="462c0819:PsiDirectoryNode" />
               <item name="lect08_v4.0.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="py7" type="b2602c69:ProjectViewProjectNode" />
+              <item name="py7" type="462c0819:PsiDirectoryNode" />
+              <item name="lect08_v5.0.py" type="8704e2dd:PyFileNode" />
             </path>
           </expand>
           <select />
@@ -100,7 +119,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lect08_v4.0">
+  <component name="RunManager" selected="Python.lect08_v5.0">
     <configuration name="lect08_v3.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,7 +174,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lect08_v5.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -167,7 +186,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="py7" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lect08_v5.0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,16 +214,16 @@
       <item index="0" class="java.lang.String" itemvalue="Python.visualization_test" />
       <item index="1" class="java.lang.String" itemvalue="Python.lect08_v3.0" />
       <item index="2" class="java.lang.String" itemvalue="Python.lect08_v3.1" />
-      <item index="3" class="java.lang.String" itemvalue="Python.test" />
-      <item index="4" class="java.lang.String" itemvalue="Python.lect08_v4.0" />
+      <item index="3" class="java.lang.String" itemvalue="Python.lect08_v4.0" />
+      <item index="4" class="java.lang.String" itemvalue="Python.lect08_v5.0" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.lect08_v4.0" />
-        <item index="1" class="java.lang.String" itemvalue="Python.lect08_v3.0" />
-        <item index="2" class="java.lang.String" itemvalue="Python.lect08_v3.1" />
-        <item index="3" class="java.lang.String" itemvalue="Python.visualization_test" />
-        <item index="4" class="java.lang.String" itemvalue="Python.test" />
+        <item index="0" class="java.lang.String" itemvalue="Python.lect08_v5.0" />
+        <item index="1" class="java.lang.String" itemvalue="Python.lect08_v4.0" />
+        <item index="2" class="java.lang.String" itemvalue="Python.lect08_v3.0" />
+        <item index="3" class="java.lang.String" itemvalue="Python.lect08_v3.1" />
+        <item index="4" class="java.lang.String" itemvalue="Python.visualization_test" />
       </list>
     </recent_temporary>
   </component>
@@ -234,12 +253,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-18" y="36" width="1346" height="688" extended-state="1" />
+    <frame x="-18" y="36" width="1346" height="688" extended-state="0" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25688073" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952693" sideWeight="0.49702382" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2985318" sideWeight="0.5119048" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39856374" sideWeight="0.4969419" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39856374" sideWeight="0.4969419" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2985318" sideWeight="0.48809522" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -375,6 +394,16 @@
           <caret line="43" column="14" lean-forward="true" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
           <folding>
             <element signature="e#239#252#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lect08_v5.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="32" column="24" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+          <folding>
+            <element signature="e#435#448#0" expanded="true" />
           </folding>
         </state>
       </provider>
