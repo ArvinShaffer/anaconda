@@ -39,7 +39,7 @@ def main():
     # while try_times > 0:
     #     password = input('Please enter the password:')
     #     strength_level = 0
-    #     #rule:Password length requires at least 8 bits!
+    #     #rule1:Password length requires at least 8 bits!
     #     if len(password) >= 8:
     #         strength_level += 1
     #     else:
