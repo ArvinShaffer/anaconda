@@ -11,11 +11,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="api_v7.0.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="api_v8.0.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/api_v8.0.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1575">
+              <caret line="74" column="40" lean-forward="true" selection-start-line="74" selection-start-column="40" selection-end-line="74" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="api_v7.0.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/api_v7.0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="47" column="1" lean-forward="false" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+            <state relative-caret-position="-83">
+              <caret line="48" column="8" lean-forward="false" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -40,6 +50,7 @@
         <option value="$PROJECT_DIR$/api_v5.0.py" />
         <option value="$PROJECT_DIR$/api_v6.0.py" />
         <option value="$PROJECT_DIR$/api_v7.0.py" />
+        <option value="$PROJECT_DIR$/api_v8.0.py" />
       </list>
     </option>
   </component>
@@ -72,11 +83,6 @@
             <path>
               <item name="py8" type="b2602c69:ProjectViewProjectNode" />
               <item name="py8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="py8" type="b2602c69:ProjectViewProjectNode" />
-              <item name="py8" type="462c0819:PsiDirectoryNode" />
-              <item name="api_v7.0.py" type="8704e2dd:PyFileNode" />
             </path>
           </expand>
           <select />
@@ -111,25 +117,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.api_v7.0">
-    <configuration name="api_v3.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="py8" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api_v3.0.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.api_v8.0">
     <configuration name="api_v4.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -202,20 +190,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="api_v8.0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="py8" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api_v8.0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.api_v3.0" />
-      <item index="1" class="java.lang.String" itemvalue="Python.api_v4.0" />
-      <item index="2" class="java.lang.String" itemvalue="Python.api_v5.0" />
-      <item index="3" class="java.lang.String" itemvalue="Python.api_v6.0" />
-      <item index="4" class="java.lang.String" itemvalue="Python.api_v7.0" />
+      <item index="0" class="java.lang.String" itemvalue="Python.api_v4.0" />
+      <item index="1" class="java.lang.String" itemvalue="Python.api_v5.0" />
+      <item index="2" class="java.lang.String" itemvalue="Python.api_v6.0" />
+      <item index="3" class="java.lang.String" itemvalue="Python.api_v7.0" />
+      <item index="4" class="java.lang.String" itemvalue="Python.api_v8.0" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.api_v7.0" />
-        <item index="1" class="java.lang.String" itemvalue="Python.api_v6.0" />
-        <item index="2" class="java.lang.String" itemvalue="Python.api_v5.0" />
-        <item index="3" class="java.lang.String" itemvalue="Python.api_v4.0" />
-        <item index="4" class="java.lang.String" itemvalue="Python.api_v3.0" />
+        <item index="0" class="java.lang.String" itemvalue="Python.api_v8.0" />
+        <item index="1" class="java.lang.String" itemvalue="Python.api_v7.0" />
+        <item index="2" class="java.lang.String" itemvalue="Python.api_v6.0" />
+        <item index="3" class="java.lang.String" itemvalue="Python.api_v5.0" />
+        <item index="4" class="java.lang.String" itemvalue="Python.api_v4.0" />
       </list>
     </recent_temporary>
   </component>
@@ -289,7 +295,7 @@
         <state relative-caret-position="420">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
-            <element signature="e#407#422#0" expanded="true" />
+            <element signature="e#407#422#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -336,13 +342,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aqi.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -395,15 +394,39 @@
         <state relative-caret-position="210">
           <caret line="9" column="38" lean-forward="false" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
           <folding>
-            <element signature="e#407#422#0" expanded="true" />
+            <element signature="e#407#422#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aqi.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/api_v7.0.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="47" column="1" lean-forward="false" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+        <state relative-caret-position="-83">
+          <caret line="48" column="8" lean-forward="false" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/china_city_aqi.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="113" column="18" lean-forward="true" selection-start-line="113" selection-start-column="18" selection-end-line="113" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_v8.0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="74" column="40" lean-forward="true" selection-start-line="74" selection-start-column="40" selection-end-line="74" selection-end-column="40" />
           <folding />
         </state>
       </provider>
